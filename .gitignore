@@ -1,0 +1,12 @@
+# Ignore Python artifacts
+__pycache__/
+*.py[cod]
+
+# Ignore local OS files
+.DS_Store
+
+# Ignore node modules
+node_modules/
+
+# Keep project-level chatmodes local by default
+.github/chatmodes/
